@@ -5,6 +5,6 @@
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("添加到暂存区,再上传到本地仓库,再克隆下来!!!①①①+②②②");
+        System.out.println("添加到暂存区,再上传到本地仓库,再克隆下来!!!①①①+②②②@@@@@@@@@@@@@@@@");
     }
 }
